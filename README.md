@@ -9,7 +9,7 @@
         - 🌱 I’m currently diving deeper into <strong>DSA & System Design</strong><br>
         - 🔍 Ask me about <strong>LLM Retrieval-Augmented Generation</strong><br>
         - 💻 All of my projects are available at <a href="https://github.com/vikashrmaa"><strong>GitHub</strong></a><br>
-        - 📧 How to reach me: <strong>vikashsharma@gmail.com</strong><br>
+        - 📧 How to reach me: <strong>vikas81083637@gmail.com</strong><br>
         - 🎓 Know about my experiences on <a href="https://github.com/vikashrmaa"><strong>GitHub</strong></a><br>
         - 🚀 Fun fact: <strong>Recursion is just a function calling itself... like a snake eating its own tail!</strong>
       </p>

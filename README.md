@@ -46,19 +46,37 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashrmaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashrmaa" alt="GitHub Streak" />
-</p>
+<table>
+    <td align="center" colspan="2">
+      <img src="https://nirzak-streak-stats.vercel.app?user=vikashrmaa&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vikashrmaa&theme=dark&hide=issues&show_icons=true&rank_icon=github" alt="Vikashrmaa's GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashrmaa&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+</picture>
+
+## 📊 LeetCode Stats
 
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
-| <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=activity" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" /> |
+| <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=activity&height=400" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=heatmap&height=400" width="400" alt="LeetCode Heatmap" /> |
 
-<h3>LeetCode Badges:</h3>
+<h3>🏅 LeetCode Badges:</h3>
 <p>
-  <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=badges" width="400" alt="LeetCode Badges" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 1" width="150" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode Badge 2" width="150" />
 </p>

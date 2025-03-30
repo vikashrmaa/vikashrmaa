@@ -5,11 +5,11 @@
   <tr>
     <td>
       <p>
-        - 🔝 I’m currently working on <strong>Data Analysis and Software Development</strong><br>
+        - 💙 I’m currently working on <strong>Data Analysis and Software Development</strong><br>
         - 🌱 I’m currently diving deeper into <strong>DSA & System Design</strong><br>
         - 🔍 Ask me about <strong>LLM Retrieval-Augmented Generation</strong><br>
         - 💻 All of my projects are available at <a href="https://github.com/vikashrmaa"><strong>GitHub</strong></a><br>
-        - 📧 How to reach me: <strong>vikas81083637@gmail.com</strong><br>
+        - 💎 How to reach me: <strong>vikas81083637@gmail.com</strong><br>
         - 🎓 Know about my experiences on <a href="https://github.com/vikashrmaa"><strong>GitHub</strong></a><br>
         - 🚀 Fun fact: <strong>Recursion is just a function calling itself... like a snake eating its own tail!</strong>
       </p>
@@ -57,3 +57,8 @@
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
 | <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=activity" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" /> |
+
+<h3>LeetCode Badges:</h3>
+<p>
+  <img src="https://leetcard.jacoblin.cool/vikashrma?theme=dark&ext=badges" width="400" alt="LeetCode Badges" />
+</p>

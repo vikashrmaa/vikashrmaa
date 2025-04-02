@@ -78,6 +78,7 @@
 <h3>🏅 LeetCode Badges:</h3>
 <p>
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="150" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="150" />
 
-  <img src="[https://assets.leetcode.com/static_assets/others/2550.gif](https://assets.leetcode.com/static_assets/marketing/202503.gif)" alt="LeetCode 50 Days Badge" width="150" />
+ 
 </p>
